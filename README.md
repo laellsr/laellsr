@@ -27,7 +27,7 @@
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" width="40" title="Selenium">
 <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/270575392800eb17a02612203f6f0d5868c634a7/projects/appium/appium-icon-color-flat.svg" height="40" width="40" title="Appium">
-<img src="https://jmeter.apache.org/images/logo.svg" height="40px" title="JMeter" style="filter: invert(1) sepia(1)">
+<img src="./jmeter_logo-1604046276.png" height="40px" title="JMeter" style="filter: invert(1) sepia(1)">
 </div>
 
 ### Others
