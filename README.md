@@ -3,7 +3,7 @@
 ### **Hello there** 👋
 - 🔭 I'm working as a developer at [Centro de Inocação Edge](https://www.linkedin.com/company/edge-inovacao).
 - 🌱 Currently learning Natural Language Processing.
-- 🤖 Automation engineer for Android, Web, and Windows desktop.
+- 🤖 Automation engineer for Android, Web, and Windows.
 - 📂 Over 30 WordPress backend projects for [Grupo Communicatti](https://communicatti.com/)
 - 💡 Creator of the [Roberta](https://www.online.maceio.al.gov.br/) chatbot for the city hall of Maceió, Alagoas, Brazil.
 
