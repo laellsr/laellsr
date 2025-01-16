@@ -1,7 +1,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=laellsr&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=S,AAA,AA,A,UNKNOWN,SECRET)
 
 ### **Hello there** 👋
-- 🔭 I'm a developer at [Centro de Inocação Edge](https://www.linkedin.com/company/edge-inovacao).
+- 🔭 I'm working as a developer at [Centro de Inocação Edge](https://www.linkedin.com/company/edge-inovacao).
 - 🌱 Currently learning Natural Language Processing.
 - 🤖 Automation engineer for Android, Web, and Windows desktop.
 - 📂 Over 30 WordPress backend projects for [Grupo Communicatti](https://communicatti.com/)
